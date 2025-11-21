@@ -1,8 +1,0 @@
-# Hashtag marks a line as comment
-# Add RSS links per line
-
-#BBC
-https://feeds.bbci.co.uk/news/rss.xml?edition=uk
-
-#NYT
-https://rss.nytimes.com/services/xml/rss/nyt/World.xml
