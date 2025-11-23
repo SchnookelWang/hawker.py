@@ -5,6 +5,11 @@ REPO="https://github.com/SchnookelWang/hawker.py/archive/refs/heads/main.tar.gz"
 I_DIR="$HOME/.hawker"
 VIR_ENV_DIR="$I_DIR/.venv"
 
+echo "HOME: $HOME"
+echo "I_DIR: $I_DIR"
+echo "VIR_ENV_DIR: $VIR_ENV_DIR"
+
+
 echo "Downloading hawker.py..."
 rm -rf "$I_DIR"
 mkdir -p "$I_DIR"
