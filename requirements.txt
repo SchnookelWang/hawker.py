@@ -1,6 +1,4 @@
 feedparser
-datetime
-time
 threading
 pathlib
 colorama
