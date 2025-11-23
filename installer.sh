@@ -3,7 +3,7 @@ set -e
 
 REPO="https://github.com/SchnookelWang/hawker.py/archive/refs/heads/main.tar.gz"
 I_DIR="$HOME/.hawker"
-VIR_ENV_DIR="$INSTALL_DIR/.venv"
+VIR_ENV_DIR="$I_DIR/.venv"
 
 echo "Downloading hawker.py..."
 rm -rf "$I_DIR"
