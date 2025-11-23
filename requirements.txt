@@ -1,5 +1,4 @@
 feedparser
-threading
 DateTime
 pathlib
 colorama
