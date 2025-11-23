@@ -1,4 +1,4 @@
 feedparser
 DateTime
 colorama
-bs4
+beautifulsoup4
