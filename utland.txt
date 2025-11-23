@@ -1,0 +1,20 @@
+#UTLANDS ARTIKLER:
+
+#DR
+https://www.dr.dk/nyheder/service/feeds/udland
+
+#NRK
+https://www.nrk.no/urix/toppsaker.rss
+
+#VG
+https://www.vg.no/rss/feed/?categories=1070
+
+#BBC
+https://feeds.bbci.co.uk/news/rss.xml
+https://feeds.bbci.co.uk/news/world/rss.xml
+
+#THE GUARDIAN
+https://www.theguardian.com/world/rss
+
+#CNN
+http://rss.cnn.com/rss/edition_world.rss

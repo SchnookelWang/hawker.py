@@ -1,0 +1,6 @@
+#MAIN rss
+#EACH RSS ADDRESS SHOULD BE SEPERATED BY NEW LINE
+
+https://www.nrk.no/toppsaker.rss
+https://www.vg.no/rss/feed/?categories=1070
+https://feeds.bbci.co.uk/news/rss.xml?edition=int
