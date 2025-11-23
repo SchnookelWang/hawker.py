@@ -1,5 +1,0 @@
-https://www.nrk.no/sport/toppsaker.rss
-https://www.tv2.no/rss/sport
-https://www.dr.dk/nyheder/service/feeds/sporten
-https://www.dr.dk/nyheder/service/feeds/senestesport
-
