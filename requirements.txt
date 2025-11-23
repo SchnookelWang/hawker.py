@@ -1,5 +1,6 @@
 feedparser
 threading
+DateTime
 pathlib
 colorama
 bs4
